@@ -18,6 +18,7 @@ public class Etudiant {
 	private long id;
 	private String noms;
 	private Date datenaissance;
+	private String sexe;
 	public Etudiant() {
 		super();
 		// TODO Auto-generated constructor stub
